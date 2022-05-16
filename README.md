@@ -7,5 +7,7 @@ I work as a TA for marine data analysis, if you're a student submitting your ass
 My current research is studying the tectonic geomorphology of oceanic transforms :) 
 
 Here's a photo of my dog enjoying the sun:
-![IMG_4252](https://user-images.githubusercontent.com/103458910/168680716-7da720ee-b912-4772-9782-b7de67f1a2fb.jpg)
+
+<img width="417" alt="Screen Shot 2022-05-16 at 1 58 50 PM" src="https://user-images.githubusercontent.com/103458910/168681600-350b1fe5-ad68-493d-a7a0-41df077413d5.png">
+
 
